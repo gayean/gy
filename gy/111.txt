@@ -2,3 +2,6 @@ hi
 byebye
 hihi2
 bye2
+new text
+new text2
+first file
